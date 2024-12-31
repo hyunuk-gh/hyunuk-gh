@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 im hyun uk
 
 <!--
 **hyunuk-gh/hyunuk-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yami&fontSize=90" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
