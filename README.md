@@ -1,6 +1,6 @@
 ## Hi there 👋 im hyun uk
 
-<div align=center>
+<div align=left>
 	<h3>📚 안녕하세요~! 📚</h3>
 </div>
 
